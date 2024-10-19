@@ -5,8 +5,10 @@
 </p>
 
 <p align="Left">
-  If you want to get in touch, 
-  feel free to email me. 
+  If you want to get in touch,
+</p>
+<p align="Left">
+  feel free to email me.
 </p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KWXYNV&theme=dark&show_icons=true&hide_border=true&layout=compact)
