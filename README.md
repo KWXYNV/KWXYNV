@@ -12,7 +12,7 @@
 
 <p align="Left">
   <samp>
-  feel free to <a href="">email me</a>.
+  feel free to <a href="mailto:kwxynv@tuta.io">email me</a>.
   </samp>
 </p>
 
