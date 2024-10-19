@@ -5,11 +5,15 @@
 </p>
 
 <br>
+
 <p align="Left">
   <samp>
   If you want to get in touch,
+  </samp>
 </p>
+
 <p align="Left">
+  <samp>
   feel free to <a href="">email me</a>.
   </samp>
 </p>
