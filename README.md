@@ -4,7 +4,6 @@
   </samp>
 </p>
 
-<br><br><br>
 <br>
 <p align="Left">
   If you want to get in touch,
