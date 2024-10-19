@@ -4,8 +4,6 @@
   </samp>
 </p>
 
-<br>
-
 <p align="Left">
   <samp>
   If you want to get in touch,
@@ -18,4 +16,6 @@
   </samp>
 </p>
 
+<p align="Left">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KWXYNV&theme=dark&show_icons=true&hide_border=true&layout=compact)
+</p>
