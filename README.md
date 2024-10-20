@@ -21,5 +21,5 @@
     PGP Signature: 2C57699CE580D0ECDB53FF0CAAA7A7A18F8E80BA
   </samp>
 
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KWXYNV&theme=dark&show_icons=true&hide_border=true&layout=compact)
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/KWXYNV?cardType=github&theme=dark&showIcons=false&preferLogin=false)](https://git.io/awesome-stats-card)
