@@ -23,3 +23,5 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/KWXYNV?cardType=github&theme=dark&showIcons=false&preferLogin=false)](https://git.io/awesome-stats-card)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KWXYNV&hide_progress=true&theme=dark#gh-dark-mode-only)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KWXYNV&theme=dark&hide_border=true&count_private=true)
