@@ -21,5 +21,5 @@
     PGP Signature: 2C57699CE580D0ECDB53FF0CAAA7A7A18F8E80BA
   </samp>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=dark#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?KWXYNV=anuraghazra&hide_progress=true&theme=dark#gh-dark-mode-only)
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/KWXYNV?cardType=github&theme=dark&showIcons=false&preferLogin=false)](https://git.io/awesome-stats-card)
