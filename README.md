@@ -21,4 +21,4 @@
     PGP Signature: 2C57699CE580D0ECDB53FF0CAAA7A7A18F8E80BA
   </samp>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KWXYNV&theme=dark&hide_border=true&count_private=true)
+< align="Left" ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KWXYNV&theme=dark&hide_border=true&count_private=true) >
