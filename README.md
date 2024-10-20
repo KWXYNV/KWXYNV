@@ -25,4 +25,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KWXYNV&hide_progress=true&theme=dark#gh-dark-mode-only)
 
-! (https://github-readme-stats.vercel.app/api/top-langs/?username=KWXYNV&hide_title=true&layout=compact&theme=dark#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KWXYNV&hide_title=true&layout=compact&theme=dark#gh-dark-mode-only)
