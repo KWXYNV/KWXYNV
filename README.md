@@ -22,4 +22,4 @@
   </samp>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KWXYNV&theme=dark&show_icons=true&hide_border=true&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KWXYNV&theme=dark&hide_border=true&count_private=true)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/KWXYNV?cardType=github&theme=dark&showIcons=false&preferLogin=false)](https://git.io/awesome-stats-card)
